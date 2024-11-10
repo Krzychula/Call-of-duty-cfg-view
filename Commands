@@ -1,0 +1,17 @@
+This is my personal config from the game, where are the commands to change the game's graphics
+
+seta r_drawBModels "1"
+
+seta r_drawDecals "1"
+
+seta fx_drawClouds "1"
+
+seta cg_drawFPS "Simple"
+
+seta cg_drawFPSLabels "1"
+
+seta cg_drawFriendlyFireCrosshair "0"
+
+seta cg_drawFriendlyNames "0"
+
+seta cg_drawLagometer "1"
